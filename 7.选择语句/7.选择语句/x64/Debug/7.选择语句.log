@@ -1,0 +1,3 @@
+﻿  7.练习 选择语句.c
+7.选择语句.obj : error LNK2005: main 已经在 7.练习 选择语句.obj 中定义
+E:\Dev-Cpp\source\7.选择语句\x64\Debug\7.选择语句.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
