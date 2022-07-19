@@ -1,0 +1,16 @@
+﻿  13.指针.c
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(55,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(55,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(56,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(56,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(57,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(57,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(58,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(58,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(59,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(59,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(60,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(60,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(61,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\13.指针\13.指针\13.指针.c(61,9): message : 请考虑在格式字符串中使用“%zd”
+  13.指针.vcxproj -> E:\Dev-Cpp\source\13.指针\x64\Debug\13.指针.exe
