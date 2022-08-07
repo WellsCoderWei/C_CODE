@@ -1,0 +1,3 @@
+﻿  19.指针初阶.c
+E:\Dev-Cpp\source\19.指针初阶\19.指针初阶\19.指针初阶.c(48,1): warning C4133: “初始化”: 从“int *”到“char *”的类型不兼容
+  19.指针初阶.vcxproj -> E:\Dev-Cpp\source\19.指针初阶\Debug\19.指针初阶.exe

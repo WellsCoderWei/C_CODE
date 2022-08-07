@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "1.数据的存储练习", "1.数据的存储练习\1.数据的存储练习.vcxproj", "{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Debug|x64.ActiveCfg = Debug|x64
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Debug|x64.Build.0 = Debug|x64
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Debug|x86.ActiveCfg = Debug|Win32
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Debug|x86.Build.0 = Debug|Win32
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Release|x64.ActiveCfg = Release|x64
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Release|x64.Build.0 = Release|x64
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Release|x86.ActiveCfg = Release|Win32
+		{AB4FD87E-6CC8-4242-A159-F0D075C4AF3C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {38534FFA-5302-47D7-9113-0A670EEA0907}
+	EndGlobalSection
+EndGlobal

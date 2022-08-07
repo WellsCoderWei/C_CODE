@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "22.指针初阶练习", "22.指针初阶练习\22.指针初阶练习.vcxproj", "{72354B86-8575-4D7B-9138-776CB3FEB0F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Debug|x64.ActiveCfg = Debug|x64
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Debug|x64.Build.0 = Debug|x64
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Debug|x86.ActiveCfg = Debug|Win32
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Debug|x86.Build.0 = Debug|Win32
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Release|x64.ActiveCfg = Release|x64
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Release|x64.Build.0 = Release|x64
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Release|x86.ActiveCfg = Release|Win32
+		{72354B86-8575-4D7B-9138-776CB3FEB0F4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CFD17B2B-0C35-4396-ADA3-290EE2BE2397}
+	EndGlobalSection
+EndGlobal

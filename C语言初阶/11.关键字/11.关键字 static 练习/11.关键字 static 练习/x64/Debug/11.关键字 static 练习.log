@@ -1,0 +1,5 @@
+﻿  11.关键字 static 练习.c
+  Add.c
+  正在生成代码...
+11.关键字 static 练习.obj : error LNK2019: 无法解析的外部符号 Add，函数 main 中引用了该符号
+E:\Dev-Cpp\source\11.关键字\11.关键字 static 练习\x64\Debug\11.关键字 static 练习.exe : fatal error LNK1120: 1 个无法解析的外部命令
