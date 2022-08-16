@@ -1,8 +1,8 @@
 ﻿  main.cpp
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(110,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(117,19): warning C4305: “初始化”: 从“double”到“float”截断
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(192,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(192,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(199,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-E:\Dev-Cpp\source\贪食蛇2022\贪食蛇2022\main.cpp(199,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
-  贪食蛇2022.vcxproj -> E:\Dev-Cpp\source\贪食蛇2022\Debug\贪食蛇2022.exe
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(110,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(117,19): warning C4305: “初始化”: 从“double”到“float”截断
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(192,63): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(192,39): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(199,56): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+E:\Dev-Cpp\source\C_CODE\贪食蛇2022\贪食蛇2022\main.cpp(199,35): warning C4244: “参数”: 从“int”转换到“float”，可能丢失数据
+  贪食蛇2022.vcxproj -> E:\Dev-Cpp\source\C_CODE\贪食蛇2022\Debug\贪食蛇2022.exe
