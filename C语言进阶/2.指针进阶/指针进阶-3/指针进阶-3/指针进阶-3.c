@@ -13,7 +13,7 @@
 //
 //     //signal是一个 函数声明
 ////1)
-//void(* signal(int, void(*)(int)))(int);  //si
+//void(* signal(int, void(*)(int)))(int);  
 ////        signal(int, void(*)(int))
 //// void(*                           )(int);
 ////          void(*)(int) 函数指针类型
