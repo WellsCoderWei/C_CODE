@@ -1,0 +1,6 @@
+﻿  5.自定义类型.cpp
+E:\Dev-Cpp\source\C_CODE\C语言进阶\5.自定义类型\5.自定义类型\5.自定义类型.cpp(170,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\C_CODE\C语言进阶\5.自定义类型\5.自定义类型\5.自定义类型.cpp(170,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Dev-Cpp\source\C_CODE\C语言进阶\5.自定义类型\5.自定义类型\5.自定义类型.cpp(173,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Dev-Cpp\source\C_CODE\C语言进阶\5.自定义类型\5.自定义类型\5.自定义类型.cpp(173,9): message : 请考虑在格式字符串中使用“%zd”
+  5.自定义类型.vcxproj -> E:\Dev-Cpp\source\C_CODE\C语言进阶\5.自定义类型\x64\Debug\5.自定义类型.exe
