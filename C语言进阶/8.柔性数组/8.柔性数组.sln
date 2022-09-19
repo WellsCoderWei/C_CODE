@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "8.柔性数组", "8.柔性数组\8.柔性数组.vcxproj", "{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Debug|x64.ActiveCfg = Debug|x64
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Debug|x64.Build.0 = Debug|x64
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Debug|x86.Build.0 = Debug|Win32
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Release|x64.ActiveCfg = Release|x64
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Release|x64.Build.0 = Release|x64
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Release|x86.ActiveCfg = Release|Win32
+		{E7EF7A5D-FAD2-4285-B35F-300A18DD3C62}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8483538-CCA9-4CF0-A4EF-D5A841B97B90}
+	EndGlobalSection
+EndGlobal
